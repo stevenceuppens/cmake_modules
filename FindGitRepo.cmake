@@ -9,6 +9,7 @@
 #    GITREPO_FOUND - true if the command line client was found
 #    GITREPO_BRANCH - the current branch of the Git Repository
 #    GITREPO_HASH - the current hash of the Git Repository
+#    GITREPO_LAST_COMMIT_MESSAGE - Commit message of the last commit
 #
 # Example usage:
 #
